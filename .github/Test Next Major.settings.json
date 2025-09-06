@@ -1,0 +1,6 @@
+{
+  "$schema": "https://raw.githubusercontent.com/D365ALchemy/AL-Go/Actions/62f89daf74d193c3bd2931fdc54f66bf49e47be7/settings.schema.json",
+  "artifact": "////nextmajor",
+  "cacheImageName": "",
+  "versioningStrategy": 15
+}
